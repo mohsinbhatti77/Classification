@@ -1,0 +1,15 @@
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+yellowbrick
+category-encoders
+imbalanced-learn
+joblib
+mlflow
+xgboost
+lightgbm
+catboost
+jupyter
+ipykernel
